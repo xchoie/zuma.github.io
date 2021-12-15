@@ -1,0 +1,30 @@
+"use strict";
+
+var zrEcMCngKNm_ctTdG = function zrEcMCngKNm_ctTdG(p4z5Opi6WPTBsITTh) {
+  var CL7Vgw2VX8Z2spkC4 = p4z5Opi6WPTBsITTh.jDi6HanScqtNLIEBX('skeleton_inside');
+  CL7Vgw2VX8Z2spkC4.nJWJGvQscqKW8jBy7 = p4z5Opi6WPTBsITTh.jDi6HanScqtNLIEBX('skeleton_outside');
+  CL7Vgw2VX8Z2spkC4.d6vFn$iSeVjKsbLEO = p4z5Opi6WPTBsITTh.jDi6HanScqtNLIEBX('skeleton_ring');
+  CL7Vgw2VX8Z2spkC4.cqeGRSbI04Ni3Vo7L = p4z5Opi6WPTBsITTh.Ugv5X7Pzdd$IR_9SV.T9dHDlQigxOyr_2fD.cqeGRSbI04Ni3Vo7L - CL7Vgw2VX8Z2spkC4.UMwZ6l4rObHoH6XOr / 2;
+  CL7Vgw2VX8Z2spkC4.ifm9yUCRi5Yd_L8sF = p4z5Opi6WPTBsITTh.Ugv5X7Pzdd$IR_9SV.T9dHDlQigxOyr_2fD.ifm9yUCRi5Yd_L8sF - CL7Vgw2VX8Z2spkC4.k$SQ9qUDr5$WcH7a2 / 2;
+  CL7Vgw2VX8Z2spkC4.nJWJGvQscqKW8jBy7.cqeGRSbI04Ni3Vo7L = p4z5Opi6WPTBsITTh.Ugv5X7Pzdd$IR_9SV.T9dHDlQigxOyr_2fD.cqeGRSbI04Ni3Vo7L - CL7Vgw2VX8Z2spkC4.nJWJGvQscqKW8jBy7._4grgN$w3LdAz6gxQ / 2;
+  CL7Vgw2VX8Z2spkC4.nJWJGvQscqKW8jBy7.ifm9yUCRi5Yd_L8sF = p4z5Opi6WPTBsITTh.Ugv5X7Pzdd$IR_9SV.T9dHDlQigxOyr_2fD.ifm9yUCRi5Yd_L8sF - CL7Vgw2VX8Z2spkC4.nJWJGvQscqKW8jBy7.Ff5wrdacHLY2q92ly / 2;
+  CL7Vgw2VX8Z2spkC4.d6vFn$iSeVjKsbLEO.cqeGRSbI04Ni3Vo7L = p4z5Opi6WPTBsITTh.Ugv5X7Pzdd$IR_9SV.T9dHDlQigxOyr_2fD.cqeGRSbI04Ni3Vo7L - CL7Vgw2VX8Z2spkC4.d6vFn$iSeVjKsbLEO._4grgN$w3LdAz6gxQ / 2;
+  CL7Vgw2VX8Z2spkC4.d6vFn$iSeVjKsbLEO.ifm9yUCRi5Yd_L8sF = p4z5Opi6WPTBsITTh.Ugv5X7Pzdd$IR_9SV.T9dHDlQigxOyr_2fD.ifm9yUCRi5Yd_L8sF - CL7Vgw2VX8Z2spkC4.d6vFn$iSeVjKsbLEO.Ff5wrdacHLY2q92ly / 2;
+  CL7Vgw2VX8Z2spkC4.gwSJMQVrXQ5zZXdX$ = 0;
+
+  CL7Vgw2VX8Z2spkC4.H1DceJPCBOELBL0wX = function () {
+    CL7Vgw2VX8Z2spkC4.gwSJMQVrXQ5zZXdX$ += 1;
+
+    if (CL7Vgw2VX8Z2spkC4.gwSJMQVrXQ5zZXdX$ >= 30) {
+      CL7Vgw2VX8Z2spkC4.gwSJMQVrXQ5zZXdX$ -= 30;
+    }
+  };
+
+  CL7Vgw2VX8Z2spkC4.HdbqFraxMqP0Whqnd = function () {
+    p4z5Opi6WPTBsITTh.In50WRiFsKjTOpxTj.drawImage(CL7Vgw2VX8Z2spkC4.nJWJGvQscqKW8jBy7.ILkYGYCBKV_VyM6$r, CL7Vgw2VX8Z2spkC4.nJWJGvQscqKW8jBy7.cqeGRSbI04Ni3Vo7L, CL7Vgw2VX8Z2spkC4.nJWJGvQscqKW8jBy7.ifm9yUCRi5Yd_L8sF);
+    p4z5Opi6WPTBsITTh.In50WRiFsKjTOpxTj.drawImage(CL7Vgw2VX8Z2spkC4.d6vFn$iSeVjKsbLEO.ILkYGYCBKV_VyM6$r, CL7Vgw2VX8Z2spkC4.d6vFn$iSeVjKsbLEO.cqeGRSbI04Ni3Vo7L, CL7Vgw2VX8Z2spkC4.d6vFn$iSeVjKsbLEO.ifm9yUCRi5Yd_L8sF);
+    p4z5Opi6WPTBsITTh.In50WRiFsKjTOpxTj.drawImage(CL7Vgw2VX8Z2spkC4.ILkYGYCBKV_VyM6$r, Math.floor(CL7Vgw2VX8Z2spkC4.gwSJMQVrXQ5zZXdX$ / 3) * CL7Vgw2VX8Z2spkC4.UMwZ6l4rObHoH6XOr, 0, CL7Vgw2VX8Z2spkC4.UMwZ6l4rObHoH6XOr, CL7Vgw2VX8Z2spkC4.k$SQ9qUDr5$WcH7a2, CL7Vgw2VX8Z2spkC4.cqeGRSbI04Ni3Vo7L, CL7Vgw2VX8Z2spkC4.ifm9yUCRi5Yd_L8sF, CL7Vgw2VX8Z2spkC4.UMwZ6l4rObHoH6XOr, CL7Vgw2VX8Z2spkC4.k$SQ9qUDr5$WcH7a2);
+  };
+
+  return CL7Vgw2VX8Z2spkC4;
+};
